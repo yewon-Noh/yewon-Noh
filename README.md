@@ -1,5 +1,10 @@
 ### Hi! I'm yewon 👋👋
 
+- [my blog](https://velog.io/@yewo2nn16)
+- [my notion](https://yewon-til.notion.site/TIL-16b1f308138944519632dd0e26f9d9e9)
+
+
+
 <!--
 **yewon-Noh/yewon-Noh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
