@@ -1,7 +1,6 @@
 ### Hi! I'm yewon 👋👋
 
 - [my blog](https://velog.io/@yewo2nn16)
-- [today I learned](https://yewonlog.oopy.io/til)
 
 
 
