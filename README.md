@@ -2,5 +2,5 @@
 
 [![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@yewo2nn16)](https://velog.io/@yewo2nn16)
 
-- 💻 Junior Developer, interested in Web and App.
+- 💻 Web Developer
 - 📈 I mainly use Spring, and I enjoy learning new technology.
